@@ -1,0 +1,3 @@
+pandas
+datatest 
+google-cloud-storage
